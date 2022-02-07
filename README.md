@@ -11,7 +11,7 @@ Brazilian by birth , originally from São Paulo.
 Living in Tel Aviv with my partner, in love with Israel!!💖
 
 With my marketing background, I can add value to any team.
-As front-end developers, we are responsible for bringing the mock up to
+As developers, we are responsible for bringing the mock up to
 life. 🙌
 
 Having lived in the U.S and in Ireland for the past 5 years, I became
@@ -35,13 +35,13 @@ The program consists of a three-month, hands-on programming, followed by three m
       Backend side: Python, Node.js, Express.js, Object Oriented Programming
       (OOP), APIs and RESTful APIs;
 
-    Data analysis: SQL, PostgreSQL;
+      Data analysis: SQL, PostgreSQL;
 
-    Other skills: Error Handling, Authentification, Project Management & Agile methodology, Deployment (Heroku and AWS), Command Line, Developer Environments, Git & GitHub;`
+      Other skills: Error Handling, Authentification, Project Management & Agile methodology, Deployment (Heroku and AWS), Command Line, Developer Environments, Git & GitHub;`
 
 
 Feel free to contact me if you want to know more!!
 
 My [LinkedIn](https://www.linkedin.com/in/maira-galvao "LinkedIn") profile!
 
-My portfolio [website](https://maira-galvao.web.app/ "website")! 
+My portfolio [website](https://maira-galvao-portfolio.web.app/ "website")! 
