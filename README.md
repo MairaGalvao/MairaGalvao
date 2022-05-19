@@ -2,7 +2,7 @@
 
 👋
 
-` My name is Maíra, and I am the web developer you are looking for. `
+` My name is Maíra, and I am the developer you are looking for. `
 
 A global individual with programming knowledge and marketing experience.
 
@@ -45,3 +45,6 @@ Feel free to contact me if you want to know more!!
 My [LinkedIn](https://www.linkedin.com/in/maira-galvao "LinkedIn") profile!
 
 My portfolio [website](https://maira-galvao-portfolio.web.app/ "website")! 
+
+
+Cheers! 
