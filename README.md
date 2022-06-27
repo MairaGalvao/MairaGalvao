@@ -29,6 +29,37 @@
 <hr/>
 
 <details>
+  <summary><b> :technologist: Working on</b></summary>
+  <br/>
+
+<b> Ivrit Sheli | The Hebrew Lyric Transliterate </b>
+App that offers phonetic and punctuation Hebrew for English speakers with a lyric link scraped from the web.
+<a href='https://github.com/MairaGalvao/The-Hebrew-Lyric-Transliterate'>Code </a>
+
+
+<b> The Real Bill | The real cost of living worldwide </b>
+App that provides information about the Living Index - theory based on the Purchasing Power Parity.
+<a href='https://github.com/MairaGalvao/TheRealBill_App'>Code </a>
+
+
+<b> Steak Risk | A data analysis </b>
+A data analysis based on correlations and comparisons among the samples.
+<a href='https://github.com/MairaGalvao/Steak_Risk_Data'>Code </a>
+<a href='https://mairagalvao.medium.com/'>Medium </a> 
+
+
+
+
+
+
+
+ 
+ 
+</details>
+
+
+
+<details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
@@ -49,7 +80,7 @@
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Other curiositie | Always learning</b></summary>
+  <summary><b>:brain: &nbsp;Other curiosities | Always learning</b></summary>
   <br/>
 
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
@@ -67,6 +98,9 @@
  
  
 </details>
- 
- 
+  
 Cheers! 
+
+I appreciate your time and wish you a wonderful day!\
+Maíra Galvão \
+Tel Aviv, Israel | ☎ +972 052-868-9993 | <a href='https://maira-galvao-portfolio.web.app/'> Website </a>
