@@ -13,13 +13,13 @@
 
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; I'm a Full Stack Developer from 2021 with a marketing & business background.\
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently looking for my next challenge, and ENJOYING the jorney!\
-&nbsp;&nbsp;&nbsp;:coffee: &nbsp;Morning routine: Turkish coffee & <a href='https://leetcode.com/mairagalvao/'> LeetCode;</a> \
+&nbsp;&nbsp;&nbsp;:coffee: &nbsp;Morning routine: Turkish coffee & <a href='https://leetcode.com/mairagalvao/'> LeetCode</a> \
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Always learning!\
-&nbsp;&nbsp;&nbsp;😄 "Smile is the only language that everyone understands".However my code is pretty readable too 😅;\
-&nbsp;&nbsp;&nbsp;👩‍❤️‍👩 Living in Tel Aviv with my wonderful wife :two_hearts: and our 🪴;\
-&nbsp;&nbsp;&nbsp;&nbsp;🥋 Huge fan of martial arts;\
-&nbsp;&nbsp;&nbsp;&nbsp;🏉 Fan fact: Had the joy to play Rugby in Ireland;\
-&nbsp;&nbsp;&nbsp;&nbsp;🥘 Definitely a foodie!
+&nbsp;&nbsp;&nbsp;😄 "Smile is the only language that everyone understands".However my code is pretty readable too 😅\
+&nbsp;&nbsp;&nbsp;👩‍❤️‍👩 Living in Tel Aviv with my wonderful wife :two_hearts: and our 🪴\
+&nbsp;&nbsp;&nbsp;&nbsp;🥋 Huge fan of martial arts\
+&nbsp;&nbsp;&nbsp;&nbsp;🏉 Fan fact: Had the joy to play Rugby in Ireland\
+&nbsp;&nbsp;&nbsp;&nbsp;🥘 I am an enthusiastic foodie and a BBQ fan!!
 
 
 <p align="center">
