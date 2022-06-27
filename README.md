@@ -10,14 +10,16 @@
 
 ### :space_invader: &nbsp;About Me
 
+
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; I'm a Full Stack Developer from 2021 with marketing & business expertise.\
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently looking for my next challenge, and enjoying the jorney!\
 &nbsp;&nbsp;&nbsp;:coffee: &nbsp;Morning routine: Turkish coffee & LeetCode\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning new tools.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2021 with a background in Marketing & Business.\
-&nbsp;&nbsp;&nbsp;😄 &nbsp; "Smile is the only language that everyone understands" However my code is pretty readable too 😅.\
-&nbsp;&nbsp;&nbsp; 👩‍❤️‍👩 &nbsp;Living in Tel Aviv with my wonderful wife :two_hearts:, and our plants 🪴\
-&nbsp;&nbsp;&nbsp;&nbsp;🥋Huge fan of martial arts.\
-&nbsp;&nbsp;&nbsp;&nbsp;🏉Fan fact: Had the joy to play Rugby in Ireland\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Always learning!\
+&nbsp;&nbsp;&nbsp;😄 "Smile is the only language that everyone understands".However my code is pretty readable too 😅.\
+&nbsp;&nbsp;&nbsp;👩‍❤️‍👩 Living in Tel Aviv with my wonderful wife :two_hearts:, and our plants 🪴\
+&nbsp;&nbsp;&nbsp;&nbsp;🥋 Huge fan of martial arts.\
+&nbsp;&nbsp;&nbsp;&nbsp;🏉 Fan fact: Had the joy to play Rugby in Ireland\
+&nbsp;&nbsp;&nbsp;&nbsp;🥘 Definitely a foodie!
 
 
 <p align="center">
@@ -42,16 +44,26 @@
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/MATERIALUI-007ACC.svg?&style=flat&logo=material-ui)&nbsp;
-![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
-
-
-<details>
-  <summary><b>:brain: &nbsp;Other curiositie | always learning</b></summary>
-  <br/>
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
-![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?&style=flat&logo=scss&logoColor=white)&nbsp;
-![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 </details>
 
+<details>
+  <summary><b>:brain: &nbsp;Other curiositie | Always learning</b></summary>
+  <br/>
 
+![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
+![Games](https://img.shields.io/badge/GAMES-31A8FF.svg?&style=flat&logo=games&logoColor=white)&nbsp;
 
+</details>
+
+<details>
+  <summary><b> 🗣️ &nbsp;Want to reach out? Check out my portfolio!</b></summary>
+  <br/>
+<p align="center"> 
+ <a href="https://maira-galvao-portfolio.web.app/"><img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=white" /></a>
+ 
+ 
+</details>
+ 
+ 
+Cheers! 
