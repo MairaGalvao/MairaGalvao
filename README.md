@@ -11,8 +11,8 @@
 ### :space_invader: &nbsp;About Me
 
 
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; I'm a Full Stack Developer from 2021 with marketing & business expertise.\
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently looking for my next challenge, and enjoying the jorney!\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; I'm a Full Stack Developer from 2021 with a marketing & business expertise.\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently looking for my next challenge, and ENJOYING the jorney!\
 &nbsp;&nbsp;&nbsp;:coffee: &nbsp;Morning routine: Turkish coffee & LeetCode\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Always learning!\
 &nbsp;&nbsp;&nbsp;😄 "Smile is the only language that everyone understands".However my code is pretty readable too 😅.\
