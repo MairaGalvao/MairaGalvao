@@ -83,9 +83,11 @@ A data analysis based on correlations and comparisons among the samples.
   <summary><b>:brain: &nbsp;Other curiosities | Always learning</b></summary>
   <br/>
 
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-31A8FF.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 ![Game Development](https://img.shields.io/badge/GAMES-DEVELOPMENT-31A8FF.svg?&style=flat&logo=gamesDEVELOPMENT&logoColor=white)&nbsp;
 ![Beautiful Soup](https://img.shields.io/badge/BEAUTIFULSOUP-31A8FF.svg?&style=flat&logo=beautifulsoup&logoColor=white)&nbsp;
+
 
 
 </details>
