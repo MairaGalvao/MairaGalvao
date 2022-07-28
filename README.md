@@ -1,6 +1,6 @@
 
 
-<img src="view.jpg"></img>
+
 
 <table align="right">
  <tr><td><a href="README.md"><img src="br-flag.jpg" height="13"> Português</a></td></tr>
