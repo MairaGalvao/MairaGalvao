@@ -19,7 +19,7 @@
 &nbsp;&nbsp;&nbsp;👩‍❤️‍👩 Living in Tel Aviv with my wonderful wife :two_hearts: and our 🪴\
 &nbsp;&nbsp;&nbsp;&nbsp;🥋 Huge fan of martial arts\
 &nbsp;&nbsp;&nbsp;&nbsp;🏉 Fan fact: Had the joy to play Rugby in Ireland\
-&nbsp;&nbsp;&nbsp;&nbsp;🥘 I am an enthusiastic foodie and a BBQ fan!!
+&nbsp;&nbsp;&nbsp;&nbsp;🥘 A foodie at heart, I'm passionate about beverages, and I'm a BBQ fan!!
 
 
 <p align="center">
