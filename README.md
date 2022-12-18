@@ -111,8 +111,8 @@ Cheers!
 I appreciate your time and wish you a wonderful day!\
 Maíra Galvão \
 Tel Aviv, Israel | ☎ +972 052-868-9993 | \
- <a href='https://maira-galvao-portfolio.web.app/'> Website </a>
-<a href='https://www.linkedin.com/in/maira-galvao'> LinkedIn </a>
+ <a href='https://maira-galvao-portfolio.web.app/'> Website </a> |
+<a href='https://www.linkedin.com/in/maira-galvao'> LinkedIn </a> |
 <a href='https://mairagalvao.medium.com/'> Medium </a>
 
 
