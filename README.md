@@ -11,7 +11,7 @@
 ### :space_invader: &nbsp;About Me
 
 
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; I'm a Full Stack Developer with a marketing & business background.\ Check it out for yourself <a href='https://maira-galvao-portfolio.web.app/'>here </a>! 
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; I'm a Full Stack Developer with a marketing & business background.\ Check it out for yourself <a href='https://maira-galvao-portfolio.web.app/'>here </a>! \
 &nbsp;&nbsp;&nbsp;:coffee: &nbsp;Morning routine: Turkish coffee & <a href='https://leetcode.com/mairagalvao/'> LeetCode</a> \
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Always learning!\
 &nbsp;&nbsp;&nbsp;😄 "Smile is the only language that everyone understands".However my code is pretty readable too 😅\
@@ -39,7 +39,7 @@ App that offers phonetic and punctuation Hebrew for English speakers with a lyri
 
 <b> The Real Bill | The real cost of living worldwide </b>
 App that provides information about the Living Index - theory based on the Purchasing Power Parity.
-<a href='https://github.com/MairaGalvao/TheRealBill_App'>Code </a>
+<a href='https://github.com/MairaGalvao/TheRealBill_App'>Code </a> &
  <a href='https://therealbill-6c919.web.app/'>Demo </a>
 
 
@@ -110,4 +110,9 @@ Cheers!
 
 I appreciate your time and wish you a wonderful day!\
 Maíra Galvão \
-Tel Aviv, Israel | ☎ +972 052-868-9993 | <a href='https://maira-galvao-portfolio.web.app/'> Website </a>
+Tel Aviv, Israel | ☎ +972 052-868-9993 | \
+ <a href='https://maira-galvao-portfolio.web.app/'> Website </a>
+<a href='https://www.linkedin.com/in/maira-galvao'> LinkedIn </a>
+<a href='https://mairagalvao.medium.com/'> Medium </a>
+
+
