@@ -11,7 +11,8 @@
 ### :space_invader: &nbsp;About Me
 
 
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; I'm a Full Stack Developer with a marketing & business background.\ Check it out for yourself <a href='https://maira-galvao-portfolio.web.app/'>here </a>! \
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; I'm a Full Stack Developer with a marketing & business background.\ 
+Check it out for yourself <a href='https://maira-galvao-portfolio.web.app/'>here </a>! \
 &nbsp;&nbsp;&nbsp;:coffee: &nbsp;Morning routine: Turkish coffee & <a href='https://leetcode.com/mairagalvao/'> LeetCode</a> \
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Always learning!\
 &nbsp;&nbsp;&nbsp;😄 "Smile is the only language that everyone understands".However my code is pretty readable too 😅\
