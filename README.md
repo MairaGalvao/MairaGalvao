@@ -11,7 +11,7 @@
 ### :space_invader: &nbsp;About Me
 
 
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; I'm a Full Stack Developer with a marketing & business background. 
+&nbsp;&nbsp;&nbsp;🛠️ I'm a Full Stack Developer with a marketing & business background. 
 Check it out for yourself <a href='https://maira-galvao-portfolio.web.app/'>here </a>! \
 &nbsp;&nbsp;&nbsp;☕ Morning routine: Brazilian ground coffee beans \
 &nbsp;&nbsp;&nbsp;✍️ Always learning!\
