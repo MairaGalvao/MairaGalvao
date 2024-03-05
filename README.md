@@ -67,6 +67,7 @@ A data analysis based on correlations and comparisons among the samples.
 
 ![Python](https://img.shields.io/badge/PYTHON-007396.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/REACT-DD0031.svg?&style=flat&logo=react&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=react&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
