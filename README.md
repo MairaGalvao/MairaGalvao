@@ -44,14 +44,6 @@ App that provides information about the Living Index - theory based on the Purch
  <a href='https://therealbill-6c919.web.app/'>Demo </a>
 
 
-<b> Steak Risk | A data analysis </b>
-A data analysis based on correlations and comparisons among the samples.
-<a href='https://github.com/MairaGalvao/Steak_Risk_Data'>Code </a>
-<a href='https://mairagalvao.medium.com/'>Medium </a> 
-
-
-
-
 
 
 
@@ -82,22 +74,6 @@ A data analysis based on correlations and comparisons among the samples.
 ![Redux](https://img.shields.io/badge/REDUX-339933.svg?&style=flat&logo=redux&logoColor=white)&nbsp;
 </details>
 
-<details>
-  <summary><b>:brain: &nbsp;Other curiosities | Always learning</b></summary>
-  <br/>
-
-![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-31A8FF.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
-![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
-![Game Development](https://img.shields.io/badge/GAMES-DEVELOPMENT-31A8FF.svg?&style=flat&logo=gamesDEVELOPMENT&logoColor=white)&nbsp;
-![Beautiful Soup](https://img.shields.io/badge/BEAUTIFULSOUP-31A8FF.svg?&style=flat&logo=beautifulsoup&logoColor=white)&nbsp;
-![QA Automation](https://img.shields.io/badge/QA-Automation-31A8FF.svg?&style=flat&logo=QA-Automation&logoColor=white)&nbsp;
-![PUPPETEER](https://img.shields.io/badge/PUPPETEER-31A8FF.svg?&style=flat&logo=puppeteer&logoColor=white)&nbsp;
-![DJANGO](https://img.shields.io/badge/DJANGO-31A8FF.svg?&style=flat&logo=django&logoColor=white)&nbsp;
-
-
-
-
-</details>
 
 <details>
   <summary><b> 🗣️ &nbsp;Want to reach out? Check out my portfolio!</b></summary>
