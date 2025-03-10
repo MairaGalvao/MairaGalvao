@@ -12,7 +12,7 @@
 
 
 &nbsp;&nbsp;&nbsp;🛠️ I'm a Full Stack Developer with experience in QA and a background in marketing & business.
-Check it out for yourself <a href='https://maira-galvao-portfolio.web.app/'>here </a>! \
+Portfolio: <a href='https://maira-galvao-portfolio.web.app/'>here </a>! \
 &nbsp;&nbsp;&nbsp;☕ Morning routine: Brazilian ground coffee beans \
 &nbsp;&nbsp;&nbsp;✍️ Always learning!\
 &nbsp;&nbsp;&nbsp;😄 "Smile is the only language that everyone understands".However my code is pretty readable too 😅\
