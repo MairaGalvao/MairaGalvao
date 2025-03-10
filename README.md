@@ -74,15 +74,6 @@ App that provides information about the Living Index - theory based on the Purch
 ![Redux](https://img.shields.io/badge/REDUX-339933.svg?&style=flat&logo=redux&logoColor=white)&nbsp;
 </details>
 
-
-<details>
-  <summary><b> 🗣️ &nbsp;Want to reach out? Check out my portfolio!</b></summary>
-  <br/>
-<p align="center"> 
- <a href="https://maira-galvao-portfolio.web.app/"><img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio&logoColor=white" /></a>
- 
- 
-</details>
   
 Cheers! 
 
