@@ -1,7 +1,3 @@
-
-
-
-
 <table align="right">
  <tr><td><a href="README.md"><img src="br-flag.jpg" height="13"> Português</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="eng-flag.svg" height="13"> English</a></td></tr>
